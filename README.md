@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full-Stack+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Building+scalable+and+reliable+solutions;Always+learning%2C+always+building+%F0%9F%9A%80" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=orange" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=eduardoalvarez199501&style=for-the-badge&color=orange" alt="Profile views"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ public class EduardoAlvarez {
     String[] tools = {
         "Git",
         "GitHub",
-        "Docker",
+        "Spring Tool Suite",
         "Linux"
     };
 
@@ -88,25 +88,24 @@ public class EduardoAlvarez {
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   ☕ Java Applications                                  │
+│   ☕ Java Applications                                 │
 │   ├── Spring Boot APIs                                  │
 │   ├── RESTful Services                                  │
 │   └── Enterprise Applications                           │
 │                                                         │
-│   🗄️ Data                                                │
+│   🗄️ Data                                               │
 │   ├── SQL                                               │
 │   ├── Database Design                                   │
 │   └── Data Integration                                  │
 │                                                         │
-│   🌐 Full Stack                                          │
+│   🌐 Full Stack                                        │
 │   ├── Frontend                                          │
 │   ├── Backend                                           │
 │   └── API Integration                                   │
 │                                                         │
-│   ☁️ Infrastructure                                     │
-│   ├── Docker                                            │
-│   ├── Cloud                                              │
-│   └── Automation                                        │
+│   ☁️ Infrastructure                                    │
+│   ├── Oracle Cloud                                      │
+│   └── GCP                                               │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -115,23 +114,23 @@ public class EduardoAlvarez {
 
 ## 📌 Featured Projects
 
-### 🎮 Gamers Nintendo
+### 🎮 Hikari Pool Conexions (JAVA)
 
-> Full-Stack web project focused on creating a modern gaming community platform.
+> Back-end project focused on resource control and pool client connections.
 
 **Stack:** `Java` `Spring Boot` `JavaScript` `SQL` `Git` `GitHub`
 
-[🔗 View Project](https://github.com/TU_USUARIO)
+[🔗 View Project](https://github.com/eduardoalvarez199501)
 
 ---
 
-### 🎬 Streaming Platform Clone
+### 🎬 ODENTIC Software
 
-> Responsive streaming platform interface built with modern web technologies.
+> Responsive streaming platform interface built with modern web technologies for denstist.
 
 **Stack:** `HTML` `CSS` `Bootstrap` `JavaScript`
 
-[🔗 View Project](https://github.com/TU_USUARIO)
+[🔗 View Project](https://github.com/eduardoalvarez199501)
 
 ---
 
@@ -141,7 +140,7 @@ public class EduardoAlvarez {
 
 **Stack:** `Java` `Spring Boot` `Maven` `SQL`
 
-[🔗 Explore repositories](https://github.com/TU_USUARIO?tab=repositories)
+[🔗 Explore repositories](https://github.com/eduardoalvarez199501?tab=repositories)
 
 ---
 
@@ -149,9 +148,9 @@ public class EduardoAlvarez {
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalvarez199501&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalvarez199501&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
 
@@ -161,7 +160,7 @@ public class EduardoAlvarez {
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=eduardoalvarez199501&theme=tokyonight&hide_border=false" />
 
 </p>
 
@@ -171,7 +170,7 @@ public class EduardoAlvarez {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/eduardoalvarez199501/eduardoalvarez199501/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -207,15 +206,15 @@ DevOps            ██████████░░░░░░░░░░  
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/eduardo-alvarez-a4507a152">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:eduardo.alvarez.199501@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/eduardoalvarez199501">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
